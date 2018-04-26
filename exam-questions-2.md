@@ -457,12 +457,278 @@ D. Protocol Used
 {% tabs %}
 {% tab title="Question" %}
 ```text
+After undergoing an external IT audit, George realizes 
+his network is vulnerable to DDoS attacks. What 
+countermeasures could he take to prevent DDoS attacks?
 
+A. Enable direct broadcasts
+B. Disable direct broadcasts
+C. Disable BGP
+D. Enable BGP
+```
+{% endtab %}
 
-A. 
-B. 
-C. 
-D. 
+{% tab title="Answer" %}
+B. Disable direct broadcasts
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+At what layer of the OSI model do routers function on?
+
+A. 4
+B. 3
+C. 1
+D. 5
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+B. 3
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+In linux, what is the smallest possible shellcode?
+
+A. 24 bytes
+B. 8 bytes
+C. 800 bytes
+D. 80 bytes
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+A. 24 bytes
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Harold is a security analyst who has just run the 
+rdisk /s command to grab the backup SAM file on a 
+computer. Where should Harold navigate on the
+computer to find the file?
+
+A. %systemroot%\system32\LSA
+B. %systemroot%\system32\drivers\etc
+C. %systemroot%\repair
+D. %systemroot%\LSA
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+C. %systemroot%\repair
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Software firewalls work at which layer of the OSI
+model?
+
+A. Application
+B. Network
+C. Transport
+D. Data Link
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+D. Data Link
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+The objective of this act was to protect consumer
+personal financial information held by financial
+institutions and their service providers.
+
+A. Gramm-Leach-Bliley Act
+B. Sarbanes-Oxley 2002
+C. California SB 1386
+D. HIPAA
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+A. Gramm-Leach-Bliley Act
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+A packet is sent to a router that does not have 
+the packet desination address in its route table. 
+How will the packet get to its proper destination?
+
+A. Root Internet Servers
+B. Border Gateway Protcol
+C. Gateway of Last Resort
+D. Reverse DNS
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+C. Gateway of Last Resort
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Harold wants to set up a firewall on his network
+but is not sure which one would be the most 
+appropriate. He knows he needs to allow FTP 
+traffic to one of the servers on his network, 
+but he wants to only allow FTP-PUT. Which 
+firewall would be most appropriate for Harold? 
+needs?
+
+A. Ciruit-level proxy firewall
+B. Packet filtering firewall
+C. Application-level proxy firewall 
+D. Data Link layer firewall
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+C. Application-level proxy firewal
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+What does ICMP Type 3/ Code 13 mean?
+
+A. host Unreachable
+B. Administratively Blocked
+C. Port Unreachable
+D. Protocol Unreachable 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+B. Administratively Blocked
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+How many bits is Source Port number in TCP
+Header packet?
+
+A. 16
+B. 32
+C. 48
+D. 64
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+A. 16
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+How many possible sequence number combinations
+are there in TCP/IP protocol?
+
+A. 1 Billion
+B. 320 Billion
+C. 4 Billion
+D. 32 Million
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+C. 4 Billion
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+A framework is a fundamental structure used to
+support and resolve complex issues. The framework
+that delivers an efficent set of technologies in 
+order to develop applications which are more 
+secure in using internet and intranet is:
+
+A. Microsoft Internet Security Framework
+B. Information System Security Assessment Framework
+C. Bell Labs Network Security Framework
+D. The IBM Security Framework
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+A. Microsoft Internet Security Framework
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+The framework primarily designed to fulfill
+a methodical and organized way of addressing
+five threat classes to network and that can
+be used to access, plan, manage, and maintain 
+secure computers and communications networks is:
+
+A. Nortells Unified Security Framework
+B. The IBM Security Framework
+C. Bell Labs Network Security Framework 
+D. Microsoft Internet Security Framework
 ```
 {% endtab %}
 
@@ -478,151 +744,11 @@ D.
 {% tab title="Question" %}
 ```text
 
-
 A. 
 B. 
 C. 
 D. 
-```
-{% endtab %}
 
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
 ```
 {% endtab %}
 
