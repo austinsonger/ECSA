@@ -190,26 +190,7 @@ D. RC5
 {% endtab %}
 
 {% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
-
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-A. 
-B. 
-C. 
-D. 
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
+C. MD5
 
 {% endtab %}
 {% endtabs %}
@@ -219,16 +200,19 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+Which of the following is develioped to address security 
+concerns on time and reduce the misuse or threat of attack 
+in an organization?
 
-A. 
-B. 
-C. 
-D. 
+A. Vulnerabilities checklists
+B. Configuration checklists
+C. Action Plan
+D. Testing Plan
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+A. Vulnerabilities checklists
 
 {% endtab %}
 {% endtabs %}
@@ -238,17 +222,19 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+An attacker injects malicious query strings in user input 
+fields web service authentication mechanisms and to access 
+back-end databases. Which of the following attack is this?
 
-
-A. 
-B. 
-C. 
-D. 
+A. Frame injection attack
+B. LDAP injection Attack
+C. XPath injection Attack
+D. SOAP injection Attack
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+D. SOAP injection Attack
 
 {% endtab %}
 {% endtabs %}
@@ -258,17 +244,18 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+At which level of the OSI model do the packet filtering 
+firewalls work?
 
-
-A. 
-B. 
-C. 
-D. 
+A. Application Layer
+B. Physical Layer
+C. Transport Layer
+D. Network Layer
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+D. Network Layer
 
 {% endtab %}
 {% endtabs %}
@@ -278,17 +265,20 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+By default, the TFTP server listens on UDP port 69, which
+of the following utility reports the port status of target
+TCP and UDP ports on a local or a remote computer and 
+is used to troubleshoot TCP/IP connectivity issues?
 
-
-A. 
-B. 
-C. 
-D. 
+A. PortQry
+B. Netstat
+C. Telnet
+D. Tracert
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+A. PortQry
 
 {% endtab %}
 {% endtabs %}
@@ -298,17 +288,18 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+Which of the following flow control mechanism guarantees
+reliable delivery of data?
 
-
-A. 
-B. 
-C. 
-D. 
+A. Sliding Windows
+B. Windowing
+C. Positive Acknowledgement with Retransmission
+D. Synchronization
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+C. Positive Acknowledgement with Retransmission
 
 {% endtab %}
 {% endtabs %}
@@ -318,17 +309,38 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+Which of the following is an ARP cache poisoning technique
+aimed at network switches?
 
-
-A. 
-B. 
-C. 
-D. 
+A. Replay Attack
+B. Mac Flooding
+C. Man-in-the-middle Attack
+D. DNS Poisoning
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
+B. Mac Flooding
 
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Which of the following ICMP messages will be generated if the destination port is no reachable?
+
+A. ICMP Type 11 Code 1
+B. ICMP Type 5 Code 3
+C. ICMP Type 3 Code 2
+D. ICMP Type 3 Code 3
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+D. ICMP Type 3 Code 3
 
 {% endtab %}
 {% endtabs %}
