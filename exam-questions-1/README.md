@@ -18,10 +18,6 @@ D. Rule-based Attack
 {% endtab %}
 {% endtabs %}
 
-
---------
-
-
 {% tabs %}
 {% tab title="Question" %}
 Which of the following is an application alert returned by a web application that helps an attacker guess a valid username?
@@ -40,20 +36,15 @@ C. Incorrect Password
 {% endtab %}
 {% endtabs %}
 
-
-
---------
-
-
 {% tabs %}
 {% tab title="Question" %}
 When you are running a vulnerability scan on a network and the IDS cuts off your connection, what type of IDS is being used?
 
 A. Passive IDS
 
-B.  Active IDS
+B. Active IDS
 
-C.  Progressive IDS
+C. Progressive IDS
 
 D. NIPS
 {% endtab %}
@@ -63,31 +54,23 @@ B. Active IDS
 {% endtab %}
 {% endtabs %}
 
---------
-
-
 {% tabs %}
 {% tab title="Question" %}
 Rules of Engagement document provides certain rights and restriction to the test team for performing the test and help testers to overcome legal, federal, and policy-related restriction to use different penetration testing tools and techniques.
 
 What is the last step in preparing a Rules of Engagement document?
 
-A.  Conduct a brainstorming session with top management and technical teams
+A. Conduct a brainstorming session with top management and technical teams
 
-B.  Decide the desired depth for penetration testing
+B. Decide the desired depth for penetration testing
 
-C.  Have a pre-contract discussions with different pen-testers
+C. Have a pre-contract discussions with different pen-testers
 {% endtab %}
 
 {% tab title="Answer" %}
-   
-A. Conduct a brainstorming session with top management and technical teams  
+A. Conduct a brainstorming session with top management and technical teams
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -104,13 +87,9 @@ D. Source Code Review
 {% endtab %}
 
 {% tab title="Second Tab" %}
- D. Source Code Review
+D. Source Code Review
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -125,13 +104,9 @@ D. Active Information Gathering
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Active Information Gathering
+D. Active Information Gathering
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -149,13 +124,9 @@ D. Data transfer begins even before the connection is established.
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Data transfer begins even before the connection is established.
+D. Data transfer begins even before the connection is established.
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -170,13 +141,9 @@ D. 0-1023
 {% endtab %}
 
 {% tab title="Answer" %}
- D. 0-1023
+D. 0-1023
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -191,13 +158,9 @@ D. Inference-based Assessment
 {% endtab %}
 
 {% tab title="Answer" %}
- C. Tree-based Assessment
+C. Tree-based Assessment
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -213,12 +176,9 @@ D. Applying effective input field filtering parameters
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Applying effective input field filtering parameters
+D. Applying effective input field filtering parameters
 {% endtab %}
 {% endtabs %}
-
-
---------
 
 {% tabs %}
 {% tab title="Question" %}
@@ -234,13 +194,9 @@ D. Input Validation
 {% endtab %}
 
 {% tab title="Answer" %}
- C. Session Hijacking
+C. Session Hijacking
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -259,14 +215,9 @@ D. Number of servers available in the client organization
 {% endtab %}
 
 {% tab title="Answer" %}
-C. Number of computers to be tester and resources required to perform
- a pen test
+C. Number of computers to be tester and resources required to perform a pen test
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -278,19 +229,13 @@ A. Social Engineering
 B. SQL Injection
 C. Parameter tampering
 D. Man-in-the-middle attack
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Man-in-the-middle attack
+D. Man-in-the-middle attack
 {% endtab %}
 {% endtabs %}
-
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -305,14 +250,9 @@ D. Announced testing and unannounced testing
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Announced testing and unannounced testing
+D. Announced testing and unannounced testing
 {% endtab %}
 {% endtabs %}
-
-
---------
-
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -333,10 +273,6 @@ D. Assumptions
 {% endtab %}
 {% endtabs %}
 
-
---------
-
-
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -355,14 +291,9 @@ D. Internet Protocol
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Internet Protocol
+D. Internet Protocol
 {% endtab %}
 {% endtabs %}
-
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -378,13 +309,9 @@ D. 133,134,139,142
 {% endtab %}
 
 {% tab title="Answer" %}
- A. 135,136,139,445
+A. 135,136,139,445
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -400,14 +327,9 @@ D. 225 or more
 {% endtab %}
 
 {% tab title="Answer" %}
- D. 225 or more
+D. 225 or more
 {% endtab %}
 {% endtabs %}
-
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -422,14 +344,9 @@ D. Real-time Publish Subscribe
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Real-time Publish Subscribe
+D. Real-time Publish Subscribe
 {% endtab %}
 {% endtabs %}
-
-
---------
-
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -445,13 +362,9 @@ D. Pre-attack phase
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Pre-attack phase
+D. Pre-attack phase
 {% endtab %}
 {% endtabs %}
-
-
---------
-
 
 {% tabs %}
 {% tab title="Question" %}
@@ -468,17 +381,7 @@ D. Blind Testing
 {% endtab %}
 
 {% tab title="Answer" %}
- B. Double Blind Testing
+B. Double Blind Testing
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
-
-
-
-
 

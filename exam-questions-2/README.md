@@ -15,7 +15,7 @@ D. Application Level Firewalls
 {% endtab %}
 
 {% tab title="Answer" %}
- D. Application Level Firewalls
+D. Application Level Firewalls
 {% endtab %}
 {% endtabs %}
 
@@ -31,12 +31,11 @@ A. Threat-Assessment Phase
 B. Pre-Assessment Phase
 C. Assessment Phase
 D. Post-Assessment Phase
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
- B. Pre-Assessment Phase
+B. Pre-Assessment Phase
 {% endtab %}
 {% endtabs %}
 
@@ -50,13 +49,11 @@ A. Destination port unreachable
 B. Destination host unavailable
 C. Destination host unreachable
 D. Destination protocol unreachable
-
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
- A. Destination port unreachable
+A. Destination port unreachable
 {% endtab %}
 {% endtabs %}
 
@@ -72,10 +69,6 @@ B. Application-layer Vulnerability Assessment Tools
 C. Location/Data Examined Tools
 D. Scope Assessment Tools
 ```
-{% endtab %}
-
-{% tab title="Answer" %}
-
 {% endtab %}
 {% endtabs %}
 
@@ -93,7 +86,7 @@ D. Tree-base Assessment
 {% endtab %}
 
 {% tab title="Answer" %}
- A. Inference-based Assessment
+A. Inference-based Assessment
 {% endtab %}
 {% endtabs %}
 
@@ -110,7 +103,7 @@ D. 24 bits
 {% endtab %}
 
 {% tab title="Answer" %}
- B. 32 bits
+B. 32 bits
 {% endtab %}
 {% endtabs %}
 
@@ -128,11 +121,9 @@ D. SIP
 {% endtab %}
 
 {% tab title="Answer" %}
- C. RDP
+C. RDP
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -153,9 +144,6 @@ D. Static Testing
 {% endtab %}
 {% endtabs %}
 
-
-<!--  -->
-
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -174,8 +162,6 @@ B. C/R Value Length
 {% endtab %}
 {% endtabs %}
 
-<!--  -->
-
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -191,11 +177,8 @@ D. RC5
 
 {% tab title="Answer" %}
 C. MD5
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -213,11 +196,8 @@ D. Testing Plan
 
 {% tab title="Answer" %}
 A. Vulnerabilities checklists
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -235,11 +215,8 @@ D. SOAP injection Attack
 
 {% tab title="Answer" %}
 D. SOAP injection Attack
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -256,11 +233,8 @@ D. Network Layer
 
 {% tab title="Answer" %}
 D. Network Layer
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -279,11 +253,8 @@ D. Tracert
 
 {% tab title="Answer" %}
 A. PortQry
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -300,11 +271,8 @@ D. Synchronization
 
 {% tab title="Answer" %}
 C. Positive Acknowledgement with Retransmission
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -321,11 +289,8 @@ D. DNS Poisoning
 
 {% tab title="Answer" %}
 B. Mac Flooding
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -342,11 +307,8 @@ D. ICMP Type 3 Code 3
 
 {% tab title="Answer" %}
 D. ICMP Type 3 Code 3
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -363,11 +325,8 @@ D. Unregistered port numbers
 
 {% tab title="Answer" %}
 A. Dynamically assigned port numbers
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -384,11 +343,8 @@ D. 109 and 973
 
 {% tab title="Answer" %}
 C. 110 and 995
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -405,11 +361,8 @@ D. TCP Header
 
 {% tab title="Answer" %}
 D. TCP Header
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -426,11 +379,8 @@ D. TTL evasion technique
 
 {% tab title="Answer" %}
 D. TTL evasion technique
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -448,11 +398,8 @@ D. Protocol Used
 
 {% tab title="Answer" %}
 D. Protocol Used
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -470,11 +417,8 @@ D. Enable BGP
 
 {% tab title="Answer" %}
 B. Disable direct broadcasts
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -490,11 +434,8 @@ D. 5
 
 {% tab title="Answer" %}
 B. 3
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -510,11 +451,8 @@ D. 80 bytes
 
 {% tab title="Answer" %}
 A. 24 bytes
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -533,11 +471,8 @@ D. %systemroot%\LSA
 
 {% tab title="Answer" %}
 C. %systemroot%\repair
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -554,11 +489,8 @@ D. Data Link
 
 {% tab title="Answer" %}
 D. Data Link
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -576,11 +508,8 @@ D. HIPAA
 
 {% tab title="Answer" %}
 A. Gramm-Leach-Bliley Act
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -598,11 +527,8 @@ D. Reverse DNS
 
 {% tab title="Answer" %}
 C. Gateway of Last Resort
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -624,11 +550,8 @@ D. Data Link layer firewall
 
 {% tab title="Answer" %}
 C. Application-level proxy firewal
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -638,17 +561,14 @@ What does ICMP Type 3/ Code 13 mean?
 A. host Unreachable
 B. Administratively Blocked
 C. Port Unreachable
-D. Protocol Unreachable 
+D. Protocol Unreachable
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
 B. Administratively Blocked
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -665,11 +585,8 @@ D. 64
 
 {% tab title="Answer" %}
 A. 16
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -686,11 +603,8 @@ D. 32 Million
 
 {% tab title="Answer" %}
 C. 4 Billion
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -710,11 +624,8 @@ D. The IBM Security Framework
 
 {% tab title="Answer" %}
 A. Microsoft Internet Security Framework
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -731,29 +642,16 @@ C. Bell Labs Network Security Framework
 D. Microsoft Internet Security Framework
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
+

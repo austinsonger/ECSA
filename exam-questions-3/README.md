@@ -1,7 +1,5 @@
 # Exam Questions 3
 
-<!--  -->
-
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -17,17 +15,13 @@ A. Microsoft Internet Security Framework
 B. Information Systems Security Assessment Framework
 C. The IBM Security Framework
 D. Nortell's United Security Framework
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
 B. Information Systems Security Assessment Framework
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -41,17 +35,13 @@ A. Information Systems Security Assessment Framework
 B. Microsoft Internet Security Framework
 C. Nortell's United Security Framework
 D. Federal Information Tech Sec. Assessment Framework
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
 Federal Information Tech Sec. Assessment Framework
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -66,17 +56,13 @@ A. Reverse Address Resolution Protocol
 B. Hypertext Transfer Protocol
 C. Simple Mail Transfer Protocol
 D. Telnet
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
 A. Reverse Address Resolution Protocol
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -92,18 +78,14 @@ routing protocol properly?
 A. Internet-router-firewall-net 
 B. Internet-firewall-router-net 
 C. Internet-firewall/router(edge device)-net 
-D. Internet-firewall-net 
-
+D. Internet-firewall-net
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-B. Internet-firewall-router-net 
-
+B. Internet-firewall-router-net
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -118,17 +100,13 @@ A. Type 8 ICMP codes
 B. Type 12 ICMP codes
 C. Type 3 ICMP codes
 D. Type 7 ICMP codes
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
 C. Type 3 ICMP codes
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -139,18 +117,14 @@ TCP ports?
 A. 6566 TCP ports
 B. 6771 TCP ports
 C. 6667 TCP port 
-D. 6257 TCP port 
-
+D. 6257 TCP port
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-C. 6667 TCP port 
-
+C. 6667 TCP port
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -166,17 +140,13 @@ A. Localhost(127.0.0.1) & port 1241
 B. Localhost(127.0.0.1) & port 1240
 C. Localhost(127.0.0.1) & port 1246
 D. Localhost(127.0.0.0) & port 1243
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-A. Localhost(127.0.0.1) & port 1241
-
+A. Localhost\(127.0.0.1\) & port 1241
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -189,17 +159,13 @@ A. Paranoid
 B. Sneaky
 C. Polite
 D. Normal
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
 C. Polite
-
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
@@ -212,159 +178,79 @@ A. ACT_DENIAL
 B. ACT_FLOOD
 C. ACT_KILL_HOST
 D. ACT_ATTACK
-
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-A. ACT_DENIAL
-
+A. ACT\_DENIAL
 {% endtab %}
 {% endtabs %}
-
-<!--  -->
-
-<!---
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
-
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
 {% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
 {% endtabs %}
-
-<!--  -->
 
 {% tabs %}
 {% tab title="Question" %}
 ```text
-
 A. 
 B. 
 C. 
-D. 
-
+D.
 ```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
 {% endtab %}
 {% endtabs %}
 
-<!--  -->
+---&gt;
 
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-A. 
-B. 
-C. 
-D. 
-
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
---->
