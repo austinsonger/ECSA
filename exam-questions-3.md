@@ -181,7 +181,9 @@ A. Localhost(127.0.0.1) & port 1241
 {% tabs %}
 {% tab title="Question" %}
 ```text
-Which one of the following scanned timing options in NMAP's scan is useful across slow WAN links or to hide scan?
+Which one of the following scanned timing 
+options in NMAP's scan is useful across 
+slow WAN links or to hide scan?
 
 A. Paranoid
 B. Sneaky
@@ -202,7 +204,9 @@ C. Polite
 {% tabs %}
 {% tab title="Question" %}
 ```text
-Nessus can test a server or a network DoS vulnerabilities. Which one of the following script tries to kill a service?
+Nessus can test a server or a network DoS 
+vulnerabilities. Which one of the following 
+script tries to kill a service?
 
 A. ACT_DENIAL
 B. ACT_FLOOD
@@ -220,26 +224,7 @@ A. ACT_DENIAL
 
 <!--  -->
 
-{% tabs %}
-{% tab title="Question" %}
-```text
-
-
-A. 
-B. 
-C. 
-D. 
-
-```
-{% endtab %}
-
-{% tab title="Answer" %}
-
-
-{% endtab %}
-{% endtabs %}
-
-<!--  -->
+<!---
 
 {% tabs %}
 {% tab title="Question" %}
@@ -266,6 +251,7 @@ D.
 {% tab title="Question" %}
 ```text
 
+
 A. 
 B. 
 C. 
@@ -279,7 +265,6 @@ D.
 
 {% endtab %}
 {% endtabs %}
-
 
 <!--  -->
 
@@ -300,6 +285,7 @@ D.
 
 {% endtab %}
 {% endtabs %}
+
 
 <!--  -->
 
@@ -360,3 +346,25 @@ D.
 
 {% endtab %}
 {% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+A. 
+B. 
+C. 
+D. 
+
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+--->
