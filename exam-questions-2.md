@@ -414,17 +414,18 @@ D. TCP Header
 {% tabs %}
 {% tab title="Question" %}
 ```text
+In which of the following IDS evasion techniques does
+IDS reject the packets that an end system accepts?
 
-
-A. 
-B. 
-C. 
-D. 
+A. IPS evasion technique
+B. IDS evasion technique
+C. UDP evasion technique
+D. TTL evasion technique
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+D. TTL evasion technique
 
 {% endtab %}
 {% endtabs %}
@@ -434,17 +435,19 @@ D.
 {% tabs %}
 {% tab title="Question" %}
 ```text
+A firewall's decision to forward or reject traffic in
+network filtering is dependent upon which of the 
+following
 
-
-A. 
-B. 
-C. 
-D. 
+A. Destination Address
+B. Port Numbers
+C. Source Address
+D. Protocol Used
 ```
 {% endtab %}
 
 {% tab title="Answer" %}
-
+D. Protocol Used
 
 {% endtab %}
 {% endtabs %}
