@@ -330,7 +330,8 @@ B. Mac Flooding
 {% tabs %}
 {% tab title="Question" %}
 ```text
-Which of the following ICMP messages will be generated if the destination port is no reachable?
+Which of the following ICMP messages will be generated if the 
+destination port is no reachable?
 
 A. ICMP Type 11 Code 1
 B. ICMP Type 5 Code 3
@@ -341,6 +342,269 @@ D. ICMP Type 3 Code 3
 
 {% tab title="Answer" %}
 D. ICMP Type 3 Code 3
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Port numbers above 1024 are considered which of the 
+following?
+
+A. Dynamically assigned port numbers
+B. Statically assigned port numbers
+C. Well-known port numbers
+D. Unregistered port numbers
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+A. Dynamically assigned port numbers
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Identify the port numbers used by POP3 and POP3S 
+protocols
+
+A. 113 and 981
+B. 111 and 982
+C. 110 and 995
+D. 109 and 973
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+C. 110 and 995
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Which of the following has an offset field that
+specifies the length of the header and data?
+
+A. IP Header
+B. UDP Header
+C. ICMP Header
+D. TCP Header
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+D. TCP Header
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
 
 {% endtab %}
 {% endtabs %}
