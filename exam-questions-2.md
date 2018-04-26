@@ -166,7 +166,6 @@ A. Hash Key Value
 B. C/R Value Length
 C. C/R Key Length
 D. Hash Value Length
-
 ```
 {% endtab %}
 
@@ -180,7 +179,171 @@ B. C/R Value Length
 {% tabs %}
 {% tab title="Question" %}
 ```text
+Which of the following password hashing algorithms is used in
+the NTLMv2 authentication mechanism?
 
+A. AES
+B. DES
+C. MD5
+D. RC5
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+
+A. 
+B. 
+C. 
+D. 
 ```
 {% endtab %}
 
