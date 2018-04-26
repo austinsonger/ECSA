@@ -18,6 +18,10 @@ D. Rule-based Attack
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 Which of the following is an application alert returned by a web application that helps an attacker guess a valid username?
@@ -36,6 +40,11 @@ C. Incorrect Password
 {% endtab %}
 {% endtabs %}
 
+
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 When you are running a vulnerability scan on a network and the IDS cuts off your connection, what type of IDS is being used?
@@ -53,6 +62,9 @@ D. NIPS
 B. Active IDS
 {% endtab %}
 {% endtabs %}
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -73,6 +85,10 @@ A. Conduct a brainstorming session with top management and technical teams
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 Application security assessment is one of the activity that a pen tester performs in the attack phase. It is designed to identify and assess threats to the organization through bespoke, proprietary applications or systems. It checks the application so that a malicious user cannot access, modify, or destroy data or services within the system.
@@ -92,6 +108,10 @@ D. Source Code Review
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 Which of the following information gathering technique collects information from an organization's web-based calendar and email services?
@@ -108,6 +128,10 @@ D. Active Information Gathering
  D. Active Information Gathering
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -129,6 +153,10 @@ D. Data transfer begins even before the connection is established.
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 Which of the following is the range for assigned ports managed by the Internet Assigned Numbers Authority \(IANA\)?
@@ -146,6 +174,10 @@ D. 0-1023
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 Which of the following approaches to vulnerability assessment relies on the administrator providing baseline of system configuration and then scanning continuously without incorporating any information found at the time of scanning?
@@ -162,6 +194,10 @@ D. Inference-based Assessment
  C. Tree-based Assessment
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -181,6 +217,9 @@ D. Applying effective input field filtering parameters
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -199,6 +238,10 @@ D. Input Validation
 {% endtab %}
 {% endtabs %}
 
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -216,9 +259,14 @@ D. Number of servers available in the client organization
 {% endtab %}
 
 {% tab title="Answer" %}
-C. Number of computers to be tester and resources required to perform a pen test
+C. Number of computers to be tester and resources required to perform
+ a pen test
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -239,6 +287,11 @@ D. Man-in-the-middle attack
 {% endtab %}
 {% endtabs %}
 
+
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -255,6 +308,11 @@ D. Announced testing and unannounced testing
  D. Announced testing and unannounced testing
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -274,6 +332,10 @@ D. Assumptions
 D. Assumptions
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -297,6 +359,11 @@ D. Internet Protocol
 {% endtab %}
 {% endtabs %}
 
+
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -314,6 +381,10 @@ D. 133,134,139,142
  A. 135,136,139,445
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -333,6 +404,11 @@ D. 225 or more
 {% endtab %}
 {% endtabs %}
 
+
+
+--------
+
+
 {% tabs %}
 {% tab title="Question" %}
 ```text
@@ -349,6 +425,11 @@ D. Real-time Publish Subscribe
  D. Real-time Publish Subscribe
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
+
 
 {% tabs %}
 {% tab title="Question" %}
@@ -367,6 +448,10 @@ D. Pre-attack phase
  D. Pre-attack phase
 {% endtab %}
 {% endtabs %}
+
+
+--------
+
 
 {% tabs %}
 {% tab title="Question" %}
