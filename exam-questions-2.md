@@ -132,5 +132,60 @@ D. SIP
 {% endtab %}
 {% endtabs %}
 
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+In which of the following tests is the source code of the 
+application tested in a non-runtime environment to detect the 
+SQL injection vulnerabilities
+
+A. Automated Testing
+B. Function Testing
+C. Dynamic Testing
+D. Static Testing
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+D. Static Testing
+{% endtab %}
+{% endtabs %}
 
 
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+Which of the following attributes has a LM and NTLMv1 value
+as 64bit + 64bit + 64bit and NTLMv2 value as 128 bits?
+
+A. Hash Key Value
+B. C/R Value Length
+C. C/R Key Length
+D. Hash Value Length
+
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+B. C/R Value Length
+{% endtab %}
+{% endtabs %}
+
+<!--  -->
+
+{% tabs %}
+{% tab title="Question" %}
+```text
+
+```
+{% endtab %}
+
+{% tab title="Answer" %}
+
+
+{% endtab %}
+{% endtabs %}
